@@ -17,4 +17,5 @@ When requesting an Amazon ID at the route http://localhost:8080/movie/amazon/{am
         ]
 }
 
-- go run main.go
+
+- go run server.go
